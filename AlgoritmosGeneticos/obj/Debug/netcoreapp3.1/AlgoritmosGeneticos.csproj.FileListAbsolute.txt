@@ -1,0 +1,13 @@
+C:\Users\hector.cortes\source\repos\AlgoritmosGeneticos\AlgoritmosGeneticos\bin\Debug\netcoreapp3.1\AlgoritmosGeneticos.exe
+C:\Users\hector.cortes\source\repos\AlgoritmosGeneticos\AlgoritmosGeneticos\bin\Debug\netcoreapp3.1\AlgoritmosGeneticos.deps.json
+C:\Users\hector.cortes\source\repos\AlgoritmosGeneticos\AlgoritmosGeneticos\bin\Debug\netcoreapp3.1\AlgoritmosGeneticos.runtimeconfig.json
+C:\Users\hector.cortes\source\repos\AlgoritmosGeneticos\AlgoritmosGeneticos\bin\Debug\netcoreapp3.1\AlgoritmosGeneticos.runtimeconfig.dev.json
+C:\Users\hector.cortes\source\repos\AlgoritmosGeneticos\AlgoritmosGeneticos\bin\Debug\netcoreapp3.1\AlgoritmosGeneticos.dll
+C:\Users\hector.cortes\source\repos\AlgoritmosGeneticos\AlgoritmosGeneticos\bin\Debug\netcoreapp3.1\AlgoritmosGeneticos.pdb
+C:\Users\hector.cortes\source\repos\AlgoritmosGeneticos\AlgoritmosGeneticos\obj\Debug\netcoreapp3.1\AlgoritmosGeneticos.csprojAssemblyReference.cache
+C:\Users\hector.cortes\source\repos\AlgoritmosGeneticos\AlgoritmosGeneticos\obj\Debug\netcoreapp3.1\AlgoritmosGeneticos.AssemblyInfoInputs.cache
+C:\Users\hector.cortes\source\repos\AlgoritmosGeneticos\AlgoritmosGeneticos\obj\Debug\netcoreapp3.1\AlgoritmosGeneticos.AssemblyInfo.cs
+C:\Users\hector.cortes\source\repos\AlgoritmosGeneticos\AlgoritmosGeneticos\obj\Debug\netcoreapp3.1\AlgoritmosGeneticos.csproj.CoreCompileInputs.cache
+C:\Users\hector.cortes\source\repos\AlgoritmosGeneticos\AlgoritmosGeneticos\obj\Debug\netcoreapp3.1\AlgoritmosGeneticos.dll
+C:\Users\hector.cortes\source\repos\AlgoritmosGeneticos\AlgoritmosGeneticos\obj\Debug\netcoreapp3.1\AlgoritmosGeneticos.pdb
+C:\Users\hector.cortes\source\repos\AlgoritmosGeneticos\AlgoritmosGeneticos\obj\Debug\netcoreapp3.1\AlgoritmosGeneticos.genruntimeconfig.cache
